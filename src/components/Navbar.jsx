@@ -6,7 +6,7 @@ import {
   FaLinkedin,
   FaInstagram,
 } from "react-icons/fa";
-import Logo from "../assets/logo.png";
+import Logo from "/logo.png";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
